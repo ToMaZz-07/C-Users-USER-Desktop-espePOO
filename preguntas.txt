@@ -1,0 +1,68 @@
+¿Cuál es el propósito principal de un constructor en una clase?
+A) Encapsular datos.
+B) Definir relaciones de herencia.
+C) Iniciar y asignar valores iniciales a los atributos.
+D) Realizar operaciones específicas en la clase.
+Pregunta: Métodos Estáticos
+
+¿Qué característica define a un método estático en una clase?
+A) Puede acceder a los atributos de instancia.
+B) Se puede llamar sin necesidad de instanciar la clase.
+C) Puede modificar atributos privados.
+D) Está diseñado para heredar a otras clases.
+Pregunta: Clases Abstractas
+
+¿Cuál es el propósito de una clase abstracta en POO?
+A) Puede ser instanciada directamente.
+B) Contiene únicamente atributos privados.
+C) Define una estructura común para las clases hijas.
+D) No permite la implementación de métodos.
+Pregunta: Composición de Objetos
+
+¿Qué implica la composición de objetos en POO?
+A) Crear instancias de una clase.
+B) Definir una clase dentro de otra clase.
+C) Encapsular datos en una clase.
+D) Realizar operaciones específicas en objetos.
+Pregunta: Métodos Privados
+
+¿Cuál es el propósito de tener métodos privados en una clase?
+A) Permitir su llamada desde otras clases.
+B) Mejorar la abstracción de datos.
+C) Restringir el acceso directo a ciertas operaciones.
+D) Facilitar la herencia.
+Pregunta: Herencia Múltiple
+
+¿Qué es la herencia múltiple en POO?
+A) Una clase que hereda de varias clases a la vez.
+B) La transferencia de propiedades entre instancias de clases.
+C) La creación de instancias de una clase abstracta.
+D) Un método que presenta varias formas.
+Pregunta: Sobrecarga de Métodos
+
+¿Qué implica la sobrecarga de métodos en una clase?
+A) Tener varios métodos con el mismo nombre pero diferentes parámetros.
+B) Definir métodos en una clase abstracta.
+C) Encapsular atributos privados en una clase.
+D) Establecer relaciones de herencia entre clases.
+Pregunta: Uso de Interfaces
+
+¿Cuál es el propósito principal de una interfaz en POO?
+A) Definir una estructura común para clases que no comparten una relación de herencia.
+B) Crear instancias de una clase abstracta.
+C) Iniciar y asignar valores iniciales a los atributos.
+D) Establecer relaciones de herencia entre clases.
+Pregunta: Clases Anidadas
+
+¿Qué caracteriza a las clases anidadas en POO?
+A) Pueden ser instanciadas directamente.
+B) Se definen únicamente dentro de clases abstractas.
+C) Tienen acceso directo a los atributos privados de la clase exterior.
+D) No pueden contener métodos.
+Pregunta: Instancias de Clases
+
+En POO, ¿qué representa una instancia de una clase?
+A) Un objeto específico creado a partir de esa clase.
+B) Una clase abstracta.
+C) Un método estático.
+D) Una variable global.
