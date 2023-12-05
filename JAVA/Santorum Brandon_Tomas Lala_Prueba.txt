@@ -1,0 +1,36 @@
+Grupo 2
+Integrantes:
+-Brandon Santorum
+-Tomas Lala
+
+
+1.	¿Qué es una herencia múltiple en la POO?
+A) Una clase que hereda de varias clases a la vez
+B) La transferencia de propiedades entre instancias de clases
+C) La creación de instancias de una clase abstracta
+D) Un método que presenta varias formas
+ANSWER: A
+2.	¿Qué significa una sobrecarga de métodos en una clase?
+A) Tener varios métodos con el mismo nombre, pero diferentes parámetros
+B) Definir métodos en una clase abstracta
+C) Encapsular atributos privados en una clase
+D) Establecer relaciones de herencia entre clases
+ANSWER: A
+3.	¿Determine cuál es el propósito principal de una interfaz en la POO?
+A) Definir una estructura común para clases que no comparten una relación de herencia
+B) Ninguna de las anteriores
+C) Iniciar y asignar valores iniciales a los atributos
+D) Establecer relaciones de herencia entre clases
+ANSWER: A
+4.	¿Qué es lo que caracteriza a las clases anidadas en POO?
+A) Pueden ser instanciadas directamente
+B) Se definen únicamente dentro de clases abstractas
+C) Tienen acceso directo a los atributos privados de la clase exterior
+D) No pueden contener métodos
+ANSWER: C
+5.	En la POO, ¿qué representa una instancia de una clase?
+A) Un objeto específico creado a partir de esa clase
+B) Una clase abstracta
+C) Un método estático
+D) Ninguna de las anteriores
+ANSWER: A

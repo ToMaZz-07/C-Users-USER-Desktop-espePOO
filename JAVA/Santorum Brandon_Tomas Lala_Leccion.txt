@@ -1,0 +1,37 @@
+Grupo 2
+Integrantes:
+-Brandon Santorum
+-Tomas Lala
+
+
+QUESTIONS-POO
+1.	¿Cuál es el propósito principal de un constructor en una clase?
+A) Encapsular datos
+B) Definir relaciones de herencia
+C) Iniciar y asignar valores iniciales a los atributos
+D) Realizar operaciones específicas en la clase
+ANSWER: C
+2.	¿Cuál es la característica que define a un método estático en una clase?
+A) Puede acceder a los atributos de instancia
+B) Se puede llamar sin necesidad de instanciar la clase
+C) Puede modificar atributos privados
+D) Está diseñado para heredar a otras clases
+ANSWER: B
+3.	¿Cuál es el propósito de una clase abstracta en POO?
+A) Puede ser instanciada directamente
+B) Contiene únicamente atributos privados
+C) Define una estructura común para las clases hijas
+D) No permite la implementación de métodos
+ANSWER: C
+4.	¿Qué es lo que implica la composición de objetos en POO?
+A) Crear instancias de una clase
+B) Definir una clase dentro de otra clase
+C) Encapsular datos en una clase
+D) Realizar operaciones específicas en objetos
+ANSWER: B
+5.	¿Cuál es el propósito de tener métodos privados en una clase?
+A) Permitir su llamada desde otras clases
+B) Mejorar la abstracción de datos
+C) Restringir el acceso directo a ciertas operaciones
+D) Ninguna de las anteriores
+ANSWER: C
