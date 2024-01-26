@@ -1,5 +1,0 @@
-ID: 1
-Nombre: Damian
-Edad: 17
-Dirección: Quito
-Telefono celular: 0

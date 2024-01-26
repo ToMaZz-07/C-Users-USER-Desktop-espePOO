@@ -1,4 +1,0 @@
-ID: 2
-Nombre: Mateo
-Edad: 27
-Dirección: Alangas�
